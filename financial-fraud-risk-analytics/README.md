@@ -40,10 +40,3 @@ The script creates:
 ## SQL
 `sql/analysis_queries.sql` contains SQLite queries for class counts, amount summaries, hourly patterns, and threshold-based screening. The CSV must first be imported into a SQLite table named `transactions`. The SQL is provided as a transparent companion to the Python analysis.
 
-## Suggested GitHub repository description
-**Credit-card fraud and risk analytics using Python, pandas, SQL and visualisation. Includes class-imbalance analysis, transaction profiling, baseline threshold evaluation, and clear model limitations.**
-
-## Suggested CV bullet (update with your actual results after running)
-- Built a Python and SQL fraud analytics project to profile labelled credit-card transactions, analyse class imbalance and transaction patterns, and evaluate a baseline risk-screening rule using precision and recall.
-
-Do not claim improved fraud prevention, real bank experience, or model performance that has not been measured. Add exact figures only after running the code and checking the generated report.
