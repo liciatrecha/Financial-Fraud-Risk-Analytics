@@ -16,7 +16,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset contains anonymised PCA-derived features (`V1`–`V28`), `Time`, `Amount`, and `Class` (1 = labelled fraud, 0 = not labelled fraud). `Class` is the target label. This is an old, highly imbalanced benchmark dataset and is not representative of every modern payment system.
 
-## Run it on a Mac
+## How to run the project
 
 Open Terminal in this project folder and run:
 
